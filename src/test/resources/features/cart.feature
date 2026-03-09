@@ -1,5 +1,5 @@
+@regression
 Feature: Cart functionality
-
   Scenario: Add product to cart
     Given user is on login page
     When user enters username "standard_user"
